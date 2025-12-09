@@ -22,6 +22,27 @@
                 ],
     "rows":  [
                  {
+                     "Time_Stamp":  "\/Date(1765312433000)\/",
+                     "Secadora 1":  "60.24",
+                     "Secadora 2":  "60.26",
+                     "Secadora 3":  "63.28",
+                     "Secadora 4":  "64.70",
+                     "Secadora 5":  "54.27",
+                     "Secadora 6":  "60.31",
+                     "Secadora 7":  "62.98",
+                     "Secadora 8":  "60.57",
+                     "Secadora 9":  "36.88",
+                     "Secadora 10":  "57.01",
+                     "Secadora 11":  "34.01",
+                     "Secadora 12":  "67.69",
+                     "Secadora 13":  "53.41",
+                     "Secadora 14":  "62.57",
+                     "Secadora 15":  "65.67",
+                     "Secadora 16":  "59.79",
+                     "Secadora 17":  "37.94",
+                     "Secadora 18":  "68.55"
+                 },
+                 {
                      "Time_Stamp":  "\/Date(1765311833000)\/",
                      "Secadora 1":  "61.28",
                      "Secadora 2":  "61.42",
