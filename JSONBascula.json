@@ -150,7 +150,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  202,
                      "QQS NETOS":  348.130000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
@@ -166,7 +166,7 @@
                      "Ubicacion":  "Patio Cerro",
                      "SACOS":  192,
                      "QQS NETOS":  288.740000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
@@ -358,7 +358,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  326,
                      "QQS NETOS":  551.670000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
