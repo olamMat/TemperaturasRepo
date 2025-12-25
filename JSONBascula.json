@@ -67,26 +67,26 @@
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  0,
-                     "QQS NETOS":  0.000000,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  184,
+                     "QQS NETOS":  292.630000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  0,
-                     "QQS NETOS":  0.000000,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  205,
+                     "QQS NETOS":  330.700000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  0,
-                     "QQS NETOS":  0.000000,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Cerro",
+                     "SACOS":  282,
+                     "QQS NETOS":  451.160000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
@@ -142,7 +142,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  309,
                      "QQS NETOS":  491.850000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
@@ -246,7 +246,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  277,
                      "QQS NETOS":  425.090000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
