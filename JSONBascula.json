@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
+                     "SACOS":  0,
+                     "QQS NETOS":  0.000000,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1766642400000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
                      "Ubicacion":  null,
                      "SACOS":  0,
@@ -86,7 +94,7 @@
                      "Ubicacion":  "Patio Cerro",
                      "SACOS":  282,
                      "QQS NETOS":  451.160000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
