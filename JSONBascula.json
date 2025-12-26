@@ -187,18 +187,18 @@
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
                      "CLIENTE O AGENCIA":  "El Cua",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Cerro",
                      "SACOS":  223,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  349.570000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  212,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  227,
+                     "QQS NETOS":  353.680000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766642400000)\/",
