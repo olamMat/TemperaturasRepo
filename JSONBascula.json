@@ -155,10 +155,10 @@
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  222,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  226,
+                     "QQS NETOS":  342.290000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
