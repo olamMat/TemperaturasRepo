@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
-                     "SACOS":  75,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  57,
+                     "QQS NETOS":  75.550000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -46,7 +46,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  375,
                      "QQS NETOS":  536.900000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -222,7 +222,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  240,
                      "QQS NETOS":  346.550000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
