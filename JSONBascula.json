@@ -213,7 +213,7 @@
                      "CLIENTE O AGENCIA":  "Wiwili",
                      "Ubicacion":  "Patio Cerro",
                      "SACOS":  168,
-                     "QQS NETOS":  303.410000,
+                     "QQS NETOS":  259.930000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -254,7 +254,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  214,
                      "QQS NETOS":  332.930000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
