@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
+                     "CLIENTE O AGENCIA":  "Ocotal",
+                     "Ubicacion":  null,
+                     "SACOS":  155,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
                      "Ubicacion":  "Patio Cerro",
                      "SACOS":  182,
@@ -19,10 +27,10 @@
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  387,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  601.300000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -203,10 +211,10 @@
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  214,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  332.930000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766728800000)\/",
