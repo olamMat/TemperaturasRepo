@@ -46,7 +46,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  148,
                      "QQS NETOS":  215.000000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -75,10 +75,10 @@
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "El Cua",
-                     "Ubicacion":  null,
-                     "SACOS":  285,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  295,
+                     "QQS NETOS":  437.270000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -110,7 +110,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  208,
                      "QQS NETOS":  330.610000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
