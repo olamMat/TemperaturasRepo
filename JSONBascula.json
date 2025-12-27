@@ -12,6 +12,14 @@
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  null,
+                     "SACOS":  173,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1766815200000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
                      "SACOS":  191,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
@@ -171,10 +179,10 @@
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  249,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  274,
+                     "QQS NETOS":  416.530000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
