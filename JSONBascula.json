@@ -46,7 +46,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  74,
                      "QQS NETOS":  118.740000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -86,7 +86,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  295,
                      "QQS NETOS":  437.270000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -102,7 +102,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  380,
                      "QQS NETOS":  566.690000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -198,7 +198,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  297,
                      "QQS NETOS":  421.970000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
