@@ -62,7 +62,7 @@
                      "Ubicacion":  "Patio Cerro",
                      "SACOS":  182,
                      "QQS NETOS":  282.120000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
@@ -163,26 +163,26 @@
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  154,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  252.440000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  234,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  379.610000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  284,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  415.100000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766815200000)\/",
