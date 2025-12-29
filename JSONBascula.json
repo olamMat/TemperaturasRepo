@@ -43,18 +43,18 @@
                  {
                      "Fecha":  "\/Date(1766988000000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  169,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  168,
+                     "QQS NETOS":  269.370000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766988000000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  352,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  522.530000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766988000000)\/",
