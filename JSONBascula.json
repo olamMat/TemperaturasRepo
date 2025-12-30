@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  155,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  161,
+                     "QQS NETOS":  248.050000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -94,7 +94,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  57,
                      "QQS NETOS":  78.610000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
