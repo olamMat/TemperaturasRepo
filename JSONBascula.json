@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
+                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "Ubicacion":  null,
+                     "SACOS":  496,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  161,
@@ -46,7 +54,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  132,
                      "QQS NETOS":  195.960000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -94,7 +102,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  57,
                      "QQS NETOS":  78.610000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
