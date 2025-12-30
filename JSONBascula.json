@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  157,
+                     "QQS NETOS":  null,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "El Rama",
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  349,
@@ -46,7 +54,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  281,
                      "QQS NETOS":  471.270000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -102,7 +110,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  347,
                      "QQS NETOS":  530.240000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -10380,16 +10388,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  64,
-                     "QQS NETOS":  66.540000,
+                     "SACOS":  14,
+                     "QQS NETOS":  14.780000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  14,
-                     "QQS NETOS":  14.780000,
+                     "SACOS":  64,
+                     "QQS NETOS":  66.540000,
                      "Status":  "Finalizado"
                  },
                  {
