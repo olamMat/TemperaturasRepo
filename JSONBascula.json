@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  446,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  735.080000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -94,7 +94,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  212,
                      "QQS NETOS":  343.300000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
