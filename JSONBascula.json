@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  133,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  132,
+                     "QQS NETOS":  195.960000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
@@ -67,10 +67,10 @@
                  {
                      "Fecha":  "\/Date(1767074400000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  167,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  207,
+                     "QQS NETOS":  312.610000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1766988000000)\/",
