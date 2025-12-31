@@ -30,7 +30,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  126,
                      "QQS NETOS":  170.250000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
@@ -94,7 +94,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  232,
                      "QQS NETOS":  349.340000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
