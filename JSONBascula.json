@@ -10,27 +10,35 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
-                     "CLIENTE O AGENCIA":  "El Rama",
-                     "Ubicacion":  null,
-                     "SACOS":  330,
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  38,
                      "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767160800000)\/",
+                     "CLIENTE O AGENCIA":  "El Rama",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  368,
+                     "QQS NETOS":  595.690000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  20,
                      "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  424,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  682.210000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767160800000)\/",
