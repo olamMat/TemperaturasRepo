@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767420000000)\/",
+                     "CLIENTE O AGENCIA":  "Matagalpa",
+                     "Ubicacion":  null,
+                     "SACOS":  20,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767420000000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  75,
