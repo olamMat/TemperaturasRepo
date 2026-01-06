@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
+                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  417,
+                     "QQS NETOS":  673.350000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  280,
@@ -54,7 +62,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  176,
                      "QQS NETOS":  266.030000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
