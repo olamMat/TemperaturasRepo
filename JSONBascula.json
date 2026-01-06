@@ -11,18 +11,18 @@
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  143,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  207.920000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
-                     "SACOS":  423,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  419,
+                     "QQS NETOS":  626.330000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
@@ -59,10 +59,10 @@
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  177,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  292.010000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
