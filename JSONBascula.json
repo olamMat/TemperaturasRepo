@@ -35,10 +35,10 @@
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  82,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  128.150000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
@@ -51,10 +51,10 @@
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  176,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  266.030000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767679200000)\/",
