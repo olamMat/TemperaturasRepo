@@ -21,8 +21,8 @@
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  44,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "QQS NETOS":  58.550000,
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1767765600000)\/",
@@ -133,7 +133,7 @@
                      "CLIENTE O AGENCIA":  "Matagalpa",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  210,
-                     "QQS NETOS":  301.860000,
+                     "QQS NETOS":  311.330000,
                      "Status":  "Vacio"
                  },
                  {
