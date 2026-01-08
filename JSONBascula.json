@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "El Rama",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  346,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  560.680000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
@@ -62,7 +62,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  240,
                      "QQS NETOS":  347.770000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
@@ -223,6 +223,14 @@
                      "SACOS":  124,
                      "QQS NETOS":  163.630000,
                      "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767852000000)\/",
+                     "CLIENTE O AGENCIA":  "El Rama",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  313,
+                     "QQS NETOS":  522.910000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767765600000)\/",
@@ -12276,16 +12284,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  59,
-                     "QQS NETOS":  72.310000,
+                     "SACOS":  39,
+                     "QQS NETOS":  44.570000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  39,
-                     "QQS NETOS":  44.570000,
+                     "SACOS":  59,
+                     "QQS NETOS":  72.310000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -12420,24 +12428,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Agencia",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  26,
-                     "QQS NETOS":  34.270000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  14,
                      "QQS NETOS":  19.930000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  "Patio Waswali",
-                     "SACOS":  164,
-                     "QQS NETOS":  234.910000,
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  26,
+                     "QQS NETOS":  34.270000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -12446,6 +12446,14 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  15,
                      "QQS NETOS":  18.800000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  164,
+                     "QQS NETOS":  234.910000,
                      "Status":  "Finalizado"
                  },
                  {
