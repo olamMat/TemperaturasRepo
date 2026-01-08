@@ -10,11 +10,19 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
-                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "CLIENTE O AGENCIA":  "La Dalia",
                      "Ubicacion":  null,
-                     "SACOS":  422,
+                     "SACOS":  217,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767852000000)\/",
+                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  422,
+                     "QQS NETOS":  627.230000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
@@ -91,10 +99,10 @@
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  151,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  159,
+                     "QQS NETOS":  249.030000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
@@ -115,10 +123,10 @@
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
-                     "SACOS":  333,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  329,
+                     "QQS NETOS":  484.860000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
@@ -12074,14 +12082,6 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  48,
-                     "QQS NETOS":  67.690000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  56,
@@ -12102,6 +12102,14 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  59,
                      "QQS NETOS":  69.130000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  48,
+                     "QQS NETOS":  67.690000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -12204,16 +12212,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  39,
-                     "QQS NETOS":  44.570000,
+                     "SACOS":  59,
+                     "QQS NETOS":  72.310000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  59,
-                     "QQS NETOS":  72.310000,
+                     "SACOS":  39,
+                     "QQS NETOS":  44.570000,
                      "Status":  "Finalizado"
                  },
                  {
