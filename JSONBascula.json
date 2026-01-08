@@ -12,6 +12,14 @@
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  null,
+                     "SACOS":  165,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767852000000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  null,
                      "SACOS":  253,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
