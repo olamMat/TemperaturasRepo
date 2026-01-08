@@ -27,14 +27,6 @@
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  165,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
-                 },
-                 {
-                     "Fecha":  "\/Date(1767852000000)\/",
-                     "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  253,
                      "QQS NETOS":  346.790000,
@@ -75,26 +67,26 @@
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  353,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  534.110000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
-                     "SACOS":  254,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  259,
+                     "QQS NETOS":  419.170000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  168,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  174,
+                     "QQS NETOS":  220.700000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767852000000)\/",
