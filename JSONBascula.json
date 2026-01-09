@@ -12,6 +12,14 @@
                      "Fecha":  "\/Date(1767938400000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
                      "Ubicacion":  null,
+                     "SACOS":  158,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1767938400000)\/",
+                     "CLIENTE O AGENCIA":  "Ocotal",
+                     "Ubicacion":  null,
                      "SACOS":  201,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
