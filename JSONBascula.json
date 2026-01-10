@@ -10,11 +10,19 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768024800000)\/",
-                     "CLIENTE O AGENCIA":  "El Rama",
+                     "CLIENTE O AGENCIA":  "Matagalpa",
                      "Ubicacion":  null,
-                     "SACOS":  361,
+                     "SACOS":  93,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768024800000)\/",
+                     "CLIENTE O AGENCIA":  "El Rama",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  361,
+                     "QQS NETOS":  619.180000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768024800000)\/",
