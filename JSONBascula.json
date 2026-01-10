@@ -147,10 +147,10 @@
                  {
                      "Fecha":  "\/Date(1768024800000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  217,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  340.790000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1767938400000)\/",
