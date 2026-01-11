@@ -147,10 +147,10 @@
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
-                     "SACOS":  171,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  172,
+                     "QQS NETOS":  272.060000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
@@ -158,15 +158,15 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  235,
                      "QQS NETOS":  367.410000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  80,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "QQS NETOS":  94.770000,
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
