@@ -11,18 +11,18 @@
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "El Rama",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  430,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  705.630000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  86,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  127.380000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
