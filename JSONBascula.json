@@ -46,7 +46,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  380,
                      "QQS NETOS":  622.060000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
@@ -86,7 +86,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  247,
                      "QQS NETOS":  327.240000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
