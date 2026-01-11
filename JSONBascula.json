@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
+                     "CLIENTE O AGENCIA":  "El Rama",
+                     "Ubicacion":  null,
+                     "SACOS":  380,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  90,
@@ -259,10 +267,10 @@
                  {
                      "Fecha":  "\/Date(1768024800000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  277,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  287,
+                     "QQS NETOS":  438.570000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768024800000)\/",
