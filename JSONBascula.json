@@ -10,9 +10,25 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768197600000)\/",
+                     "CLIENTE O AGENCIA":  "Ocotal",
+                     "Ubicacion":  null,
+                     "SACOS":  242,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768197600000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
                      "Ubicacion":  null,
                      "SACOS":  149,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768197600000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
+                     "SACOS":  208,
                      "QQS NETOS":  null,
                      "Status":  "Parqueo"
                  },
