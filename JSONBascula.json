@@ -19,17 +19,17 @@
                  {
                      "Fecha":  "\/Date(1768197600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  19,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  119,
+                     "QQS NETOS":  23.800000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768197600000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  261,
-                     "QQS NETOS":  378.710000,
+                     "SACOS":  87,
+                     "QQS NETOS":  126.240000,
                      "Status":  "Proceso"
                  },
                  {
@@ -78,7 +78,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  23,
                      "QQS NETOS":  28.740000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768197600000)\/",
