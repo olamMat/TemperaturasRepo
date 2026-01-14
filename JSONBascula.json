@@ -11,18 +11,18 @@
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  126,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  166.760000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  168,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  244.900000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
