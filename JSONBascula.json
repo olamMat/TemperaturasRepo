@@ -62,7 +62,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  140,
                      "QQS NETOS":  231.640000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
@@ -78,7 +78,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  226,
                      "QQS NETOS":  340.510000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
