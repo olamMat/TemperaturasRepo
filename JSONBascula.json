@@ -13,8 +13,8 @@
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  142,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "QQS NETOS":  390.700000,
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
@@ -86,7 +86,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  195,
                      "QQS NETOS":  294.230000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768284000000)\/",
