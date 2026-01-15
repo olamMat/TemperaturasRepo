@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
+                     "SACOS":  300,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768456800000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  191,
