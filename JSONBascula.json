@@ -27,10 +27,10 @@
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  23,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  33,
+                     "QQS NETOS":  43.730000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
@@ -67,26 +67,26 @@
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
-                     "SACOS":  200,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  228,
+                     "QQS NETOS":  333.540000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  236,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  305.280000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  234,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  359.960000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768370400000)\/",
