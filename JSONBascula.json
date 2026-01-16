@@ -19,17 +19,17 @@
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
-                     "SACOS":  380,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  379,
+                     "QQS NETOS":  610.200000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  196,
-                     "QQS NETOS":  292.630000,
+                     "SACOS":  365,
+                     "QQS NETOS":  548.000000,
                      "Status":  "Proceso"
                  },
                  {
