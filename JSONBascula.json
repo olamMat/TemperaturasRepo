@@ -70,7 +70,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  251,
                      "QQS NETOS":  339.830000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -86,7 +86,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  237,
                      "QQS NETOS":  362.360000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -627,7 +627,7 @@
                  {
                      "Fecha":  "\/Date(1768284000000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  "Secado Mecánico",
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  326,
                      "QQS NETOS":  509.520000,
                      "Status":  "Finalizado"
