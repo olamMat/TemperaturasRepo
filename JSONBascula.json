@@ -10,11 +10,19 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
+                     "CLIENTE O AGENCIA":  "Matagalpa",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  23,
+                     "QQS NETOS":  27.290000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768543200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  90,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "QQS NETOS":  179.690000,
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -108,9 +116,9 @@
                      "Fecha":  "\/Date(1768543200000)\/",
                      "CLIENTE O AGENCIA":  "El Cua",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  618,
-                     "QQS NETOS":  934.680000,
-                     "Status":  "Proceso"
+                     "SACOS":  206,
+                     "QQS NETOS":  311.560000,
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768456800000)\/",
@@ -14292,16 +14300,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  59,
-                     "QQS NETOS":  72.310000,
+                     "SACOS":  39,
+                     "QQS NETOS":  44.570000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  39,
-                     "QQS NETOS":  44.570000,
+                     "SACOS":  59,
+                     "QQS NETOS":  72.310000,
                      "Status":  "Finalizado"
                  },
                  {
