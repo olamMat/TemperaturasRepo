@@ -21,8 +21,8 @@
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  82,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "QQS NETOS":  97.800000,
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -118,7 +118,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  385,
                      "QQS NETOS":  541.900000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -126,7 +126,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  237,
                      "QQS NETOS":  362.360000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -134,7 +134,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  226,
                      "QQS NETOS":  358.470000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -142,7 +142,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  143,
                      "QQS NETOS":  206.880000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -150,7 +150,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  307,
                      "QQS NETOS":  419.870000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
