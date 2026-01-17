@@ -20,9 +20,9 @@
                      "Fecha":  "\/Date(1768629600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  46,
-                     "QQS NETOS":  null,
-                     "Status":  "Proceso"
+                     "SACOS":  131,
+                     "QQS NETOS":  205.710000,
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -150,7 +150,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  220,
                      "QQS NETOS":  359.590000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -158,7 +158,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  147,
                      "QQS NETOS":  246.140000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -166,7 +166,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  232,
                      "QQS NETOS":  358.180000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -174,7 +174,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  348,
                      "QQS NETOS":  522.250000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -182,7 +182,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  234,
                      "QQS NETOS":  372.920000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -190,7 +190,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  242,
                      "QQS NETOS":  347.870000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -198,7 +198,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  220,
                      "QQS NETOS":  331.130000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -206,7 +206,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  221,
                      "QQS NETOS":  329.680000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -214,7 +214,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  149,
                      "QQS NETOS":  199.550000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -222,7 +222,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  350,
                      "QQS NETOS":  568.770000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
@@ -230,7 +230,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  379,
                      "QQS NETOS":  610.200000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768543200000)\/",
