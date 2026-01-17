@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
-                     "SACOS":  80,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  66,
+                     "QQS NETOS":  75.910000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -126,7 +126,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  147,
                      "QQS NETOS":  246.140000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
