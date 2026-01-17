@@ -19,18 +19,18 @@
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Waswali",
                      "SACOS":  288,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  414.180000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  null,
-                     "SACOS":  209,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  220,
+                     "QQS NETOS":  359.590000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
@@ -75,10 +75,10 @@
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
                      "CLIENTE O AGENCIA":  "El Cua",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  220,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  331.130000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768629600000)\/",
