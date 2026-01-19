@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768802400000)\/",
+                     "CLIENTE O AGENCIA":  "El Cua",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  49,
+                     "QQS NETOS":  76.450000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768802400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  198,
@@ -30,7 +38,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  215,
                      "QQS NETOS":  311.320000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768802400000)\/",
