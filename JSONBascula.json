@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1768888800000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  210,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  174,
+                     "QQS NETOS":  252.220000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768888800000)\/",
@@ -38,7 +38,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  452,
                      "QQS NETOS":  685.680000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768888800000)\/",
