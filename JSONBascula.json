@@ -10,11 +10,19 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768888800000)\/",
+                     "CLIENTE O AGENCIA":  "La Dalia",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  242,
+                     "QQS NETOS":  359.390000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768888800000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  150,
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  104,
                      "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768888800000)\/",
