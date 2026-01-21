@@ -118,7 +118,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  188,
                      "QQS NETOS":  286.740000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -15100,16 +15100,16 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  64,
-                     "QQS NETOS":  66.540000,
+                     "SACOS":  14,
+                     "QQS NETOS":  14.780000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  14,
-                     "QQS NETOS":  14.780000,
+                     "SACOS":  64,
+                     "QQS NETOS":  66.540000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -15370,18 +15370,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  15,
-                     "QQS NETOS":  18.800000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  164,
                      "QQS NETOS":  234.910000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  15,
+                     "QQS NETOS":  18.800000,
                      "Status":  "Finalizado"
                  },
                  {
