@@ -70,7 +70,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  469,
                      "QQS NETOS":  686.760000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -142,7 +142,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  150,
                      "QQS NETOS":  229.580000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -204,8 +204,8 @@
                      "Fecha":  "\/Date(1768975200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  580,
-                     "QQS NETOS":  890.600000,
+                     "SACOS":  290,
+                     "QQS NETOS":  445.300000,
                      "Status":  "Vacio"
                  },
                  {
