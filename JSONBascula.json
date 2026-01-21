@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
-                     "SACOS":  200,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  150,
+                     "QQS NETOS":  229.580000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -27,10 +27,10 @@
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
-                     "Ubicacion":  null,
-                     "SACOS":  200,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  216,
+                     "QQS NETOS":  328.360000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
