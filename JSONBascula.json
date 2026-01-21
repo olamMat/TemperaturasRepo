@@ -10,11 +10,19 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
-                     "CLIENTE O AGENCIA":  "El Rama",
-                     "Ubicacion":  null,
-                     "SACOS":  300,
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  180,
                      "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768975200000)\/",
+                     "CLIENTE O AGENCIA":  "El Rama",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  355,
+                     "QQS NETOS":  574.910000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -15138,6 +15146,14 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  40,
+                     "QQS NETOS":  52.950000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  66,
@@ -15150,14 +15166,6 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  28,
                      "QQS NETOS":  37.460000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  40,
-                     "QQS NETOS":  52.950000,
                      "Status":  "Finalizado"
                  },
                  {
