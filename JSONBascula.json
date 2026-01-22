@@ -22,7 +22,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  424,
                      "QQS NETOS":  692.780000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
@@ -139,10 +139,10 @@
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  134,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  199.040000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
@@ -174,7 +174,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  187,
                      "QQS NETOS":  300.370000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
