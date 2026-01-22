@@ -28,7 +28,7 @@
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  30,
+                     "SACOS":  34,
                      "QQS NETOS":  46.270000,
                      "Status":  "Vacio"
                  },
@@ -78,7 +78,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  325,
                      "QQS NETOS":  487.630000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
@@ -140,7 +140,7 @@
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  150,
+                     "SACOS":  213,
                      "QQS NETOS":  264.630000,
                      "Status":  "Vacio"
                  },
@@ -156,7 +156,7 @@
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  69,
+                     "SACOS":  68,
                      "QQS NETOS":  75.080000,
                      "Status":  "Vacio"
                  },
@@ -2378,18 +2378,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
-                     "CLIENTE O AGENCIA":  "Wiwili",
-                     "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  268,
-                     "QQS NETOS":  412.150000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  164,
                      "QQS NETOS":  246.240000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768111200000)\/",
+                     "CLIENTE O AGENCIA":  "Wiwili",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  268,
+                     "QQS NETOS":  412.150000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -15442,6 +15442,14 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  28,
+                     "QQS NETOS":  37.460000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  66,
@@ -15454,14 +15462,6 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  40,
                      "QQS NETOS":  52.950000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  28,
-                     "QQS NETOS":  37.460000,
                      "Status":  "Finalizado"
                  },
                  {
