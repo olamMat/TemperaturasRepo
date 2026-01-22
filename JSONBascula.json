@@ -139,18 +139,18 @@
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  198,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  317.560000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  null,
-                     "SACOS":  196,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  192,
+                     "QQS NETOS":  271.630000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -166,7 +166,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  353,
                      "QQS NETOS":  508.150000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
@@ -190,7 +190,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  436,
                      "QQS NETOS":  709.060000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1768975200000)\/",
