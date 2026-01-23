@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1769148000000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  240,
+                     "QQS NETOS":  321.940000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769148000000)\/",
                      "CLIENTE O AGENCIA":  "El Rama",
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  325,
