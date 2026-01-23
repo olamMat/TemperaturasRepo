@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1769148000000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
-                     "Ubicacion":  null,
-                     "SACOS":  100,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  188,
+                     "QQS NETOS":  280.220000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769148000000)\/",
@@ -43,10 +43,10 @@
                  {
                      "Fecha":  "\/Date(1769148000000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  195,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  305.040000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769148000000)\/",
