@@ -22,7 +22,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  215,
                      "QQS NETOS":  285.600000,
-                     "Status":  "Proceso"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -54,7 +54,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  182,
                      "QQS NETOS":  284.200000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -62,7 +62,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  30,
                      "QQS NETOS":  35.910000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -70,7 +70,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  296,
                      "QQS NETOS":  496.600000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -78,7 +78,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  257,
                      "QQS NETOS":  414.880000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -86,7 +86,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  288,
                      "QQS NETOS":  474.240000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -94,7 +94,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  77,
                      "QQS NETOS":  208.730000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -102,7 +102,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  199,
                      "QQS NETOS":  304.750000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -110,7 +110,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  104,
                      "QQS NETOS":  149.040000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -118,7 +118,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  218,
                      "QQS NETOS":  333.940000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -126,7 +126,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  205,
                      "QQS NETOS":  324.670000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -134,7 +134,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  358,
                      "QQS NETOS":  536.900000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -142,7 +142,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  161,
                      "QQS NETOS":  250.300000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -150,7 +150,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  230,
                      "QQS NETOS":  345.720000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -158,7 +158,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  233,
                      "QQS NETOS":  317.480000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -166,7 +166,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  172,
                      "QQS NETOS":  211.900000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769320800000)\/",
@@ -174,7 +174,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  304,
                      "QQS NETOS":  468.190000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769234400000)\/",
@@ -214,7 +214,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  396,
                      "QQS NETOS":  613.890000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769234400000)\/",
