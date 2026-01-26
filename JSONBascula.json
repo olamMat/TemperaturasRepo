@@ -59,18 +59,18 @@
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  273,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  393.950000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  140,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  224.990000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
@@ -83,10 +83,10 @@
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  null,
-                     "SACOS":  310,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  321,
+                     "QQS NETOS":  487.760000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
