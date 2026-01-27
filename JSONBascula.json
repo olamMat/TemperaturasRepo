@@ -11,10 +11,10 @@
                  {
                      "Fecha":  "\/Date(1769493600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
-                     "SACOS":  100,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  144,
+                     "QQS NETOS":  206.780000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769493600000)\/",
@@ -46,7 +46,7 @@
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  325,
                      "QQS NETOS":  474.030000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769493600000)\/",
