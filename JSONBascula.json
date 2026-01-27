@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1769493600000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  248,
+                     "QQS NETOS":  345.380000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769493600000)\/",
                      "CLIENTE O AGENCIA":  "La Dalia",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  32,
@@ -116,16 +124,16 @@
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  86,
-                     "QQS NETOS":  127.550000,
+                     "SACOS":  16,
+                     "QQS NETOS":  24.870000,
                      "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  16,
-                     "QQS NETOS":  24.870000,
+                     "SACOS":  86,
+                     "QQS NETOS":  127.550000,
                      "Status":  "Vacio"
                  },
                  {
@@ -2786,18 +2794,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1768284000000)\/",
-                     "CLIENTE O AGENCIA":  "Matagalpa",
-                     "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  308,
-                     "QQS NETOS":  426.450000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1768284000000)\/",
                      "CLIENTE O AGENCIA":  "El Cua",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  230,
                      "QQS NETOS":  345.380000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768284000000)\/",
+                     "CLIENTE O AGENCIA":  "Matagalpa",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  308,
+                     "QQS NETOS":  426.450000,
                      "Status":  "Finalizado"
                  },
                  {
