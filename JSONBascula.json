@@ -11,18 +11,18 @@
                  {
                      "Fecha":  "\/Date(1769580000000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  139,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  207.760000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769580000000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Secado Mecánico",
                      "SACOS":  326,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  482.860000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1769580000000)\/",
