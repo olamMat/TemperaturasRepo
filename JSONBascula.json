@@ -11,6 +11,14 @@
                  {
                      "Fecha":  "\/Date(1769580000000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  null,
+                     "SACOS":  80,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769580000000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  67,
                      "QQS NETOS":  null,
@@ -86,7 +94,7 @@
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  246,
                      "QQS NETOS":  363.570000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1769493600000)\/",
@@ -3378,18 +3386,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
-                     "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  164,
-                     "QQS NETOS":  246.240000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  268,
                      "QQS NETOS":  412.150000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768111200000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  164,
+                     "QQS NETOS":  246.240000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -10972,16 +10980,16 @@
                      "Fecha":  "\/Date(1765519200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  74,
-                     "QQS NETOS":  118.980000,
+                     "SACOS":  190,
+                     "QQS NETOS":  300.360000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1765519200000)\/",
                      "CLIENTE O AGENCIA":  "Ocotal",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  190,
-                     "QQS NETOS":  300.360000,
+                     "SACOS":  74,
+                     "QQS NETOS":  118.980000,
                      "Status":  "Finalizado"
                  },
                  {
