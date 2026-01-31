@@ -12,6 +12,22 @@
                      "Fecha":  "\/Date(1769839200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
+                     "SACOS":  280,
+                     "QQS NETOS":  null,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769839200000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  121,
+                     "QQS NETOS":  165.420000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769839200000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  100,
                      "QQS NETOS":  null,
                      "Status":  "Proceso"
@@ -30,7 +46,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  117,
                      "QQS NETOS":  157.550000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769839200000)\/",
@@ -62,7 +78,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  321,
                      "QQS NETOS":  463.380000,
-                     "Status":  "Vacio"
+                     "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769839200000)\/",
@@ -1060,16 +1076,16 @@
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  193,
-                     "QQS NETOS":  290.210000,
+                     "SACOS":  217,
+                     "QQS NETOS":  322.330000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1769407200000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  217,
-                     "QQS NETOS":  322.330000,
+                     "SACOS":  193,
+                     "QQS NETOS":  290.210000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -11516,16 +11532,16 @@
                      "Fecha":  "\/Date(1765519200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  165,
-                     "QQS NETOS":  308.900000,
+                     "SACOS":  121,
+                     "QQS NETOS":  186.440000,
                      "Status":  "Finalizado"
                  },
                  {
                      "Fecha":  "\/Date(1765519200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  121,
-                     "QQS NETOS":  186.440000,
+                     "SACOS":  165,
+                     "QQS NETOS":  308.900000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17164,6 +17180,14 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
+                     "SACOS":  59,
+                     "QQS NETOS":  72.310000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  39,
                      "QQS NETOS":  44.570000,
                      "Status":  "Finalizado"
@@ -17172,8 +17196,8 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  59,
-                     "QQS NETOS":  72.310000,
+                     "SACOS":  14,
+                     "QQS NETOS":  14.780000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17186,10 +17210,10 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "CLIENTE O AGENCIA":  "Agencia",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  14,
-                     "QQS NETOS":  14.780000,
+                     "SACOS":  40,
+                     "QQS NETOS":  52.950000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17206,14 +17230,6 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  28,
                      "QQS NETOS":  37.460000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  40,
-                     "QQS NETOS":  52.950000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17266,18 +17282,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  15,
-                     "QQS NETOS":  18.800000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Nueva Guinea",
                      "Ubicacion":  "Patio Waswali",
                      "SACOS":  164,
                      "QQS NETOS":  234.910000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  15,
+                     "QQS NETOS":  18.800000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17300,6 +17316,14 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
+                     "SACOS":  12,
+                     "QQS NETOS":  14.780000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  29,
                      "QQS NETOS":  43.260000,
                      "Status":  "Finalizado"
@@ -17310,14 +17334,6 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  7,
                      "QQS NETOS":  7.980000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  12,
-                     "QQS NETOS":  14.780000,
                      "Status":  "Finalizado"
                  },
                  {
