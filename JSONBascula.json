@@ -9,6 +9,46 @@
                 ],
     "rows":  [
                  {
+                     "Fecha":  "\/Date(1770012000000)\/",
+                     "CLIENTE O AGENCIA":  "Ocotal",
+                     "Ubicacion":  null,
+                     "SACOS":  184,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1770012000000)\/",
+                     "CLIENTE O AGENCIA":  "La Dalia",
+                     "Ubicacion":  null,
+                     "SACOS":  227,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1770012000000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
+                     "SACOS":  200,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1770012000000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  null,
+                     "SACOS":  253,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
+                     "Fecha":  "\/Date(1770012000000)\/",
+                     "CLIENTE O AGENCIA":  "Matagalpa",
+                     "Ubicacion":  null,
+                     "SACOS":  113,
+                     "QQS NETOS":  null,
+                     "Status":  "Parqueo"
+                 },
+                 {
                      "Fecha":  "\/Date(1769839200000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
@@ -2002,18 +2042,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1769061600000)\/",
-                     "CLIENTE O AGENCIA":  "Ocotal",
-                     "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  198,
-                     "QQS NETOS":  317.560000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1769061600000)\/",
                      "CLIENTE O AGENCIA":  "Matagalpa",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  192,
                      "QQS NETOS":  271.630000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1769061600000)\/",
+                     "CLIENTE O AGENCIA":  "Ocotal",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  198,
+                     "QQS NETOS":  317.560000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -4090,18 +4130,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1768111200000)\/",
-                     "CLIENTE O AGENCIA":  "Jinotega",
-                     "Ubicacion":  "Secado Mecánico",
-                     "SACOS":  164,
-                     "QQS NETOS":  246.240000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1768111200000)\/",
                      "CLIENTE O AGENCIA":  "Wiwili",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  268,
                      "QQS NETOS":  412.150000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1768111200000)\/",
+                     "CLIENTE O AGENCIA":  "Jinotega",
+                     "Ubicacion":  "Secado Mecánico",
+                     "SACOS":  164,
+                     "QQS NETOS":  246.240000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17210,18 +17250,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  40,
-                     "QQS NETOS":  52.950000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  66,
                      "QQS NETOS":  74.570000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  40,
+                     "QQS NETOS":  52.950000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17282,18 +17322,18 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Nueva Guinea",
-                     "Ubicacion":  "Patio Waswali",
-                     "SACOS":  164,
-                     "QQS NETOS":  234.910000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  15,
                      "QQS NETOS":  18.800000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Nueva Guinea",
+                     "Ubicacion":  "Patio Waswali",
+                     "SACOS":  164,
+                     "QQS NETOS":  234.910000,
                      "Status":  "Finalizado"
                  },
                  {
