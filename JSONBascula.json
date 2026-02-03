@@ -10,6 +10,14 @@
     "rows":  [
                  {
                      "Fecha":  "\/Date(1770098400000)\/",
+                     "CLIENTE O AGENCIA":  "Recepcion ofi",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  22,
+                     "QQS NETOS":  31.400000,
+                     "Status":  "Proceso"
+                 },
+                 {
+                     "Fecha":  "\/Date(1770098400000)\/",
                      "CLIENTE O AGENCIA":  "Jinotega",
                      "Ubicacion":  "Secado Mecánico",
                      "SACOS":  220,
@@ -17506,6 +17514,14 @@
                  },
                  {
                      "Fecha":  "\/Date(1761285600000)\/",
+                     "CLIENTE O AGENCIA":  "Agencia",
+                     "Ubicacion":  "Patio Ofi",
+                     "SACOS":  40,
+                     "QQS NETOS":  52.950000,
+                     "Status":  "Finalizado"
+                 },
+                 {
+                     "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  66,
@@ -17524,8 +17540,8 @@
                      "Fecha":  "\/Date(1761285600000)\/",
                      "CLIENTE O AGENCIA":  "Agencia",
                      "Ubicacion":  "Patio Ofi",
-                     "SACOS":  40,
-                     "QQS NETOS":  52.950000,
+                     "SACOS":  39,
+                     "QQS NETOS":  54.180000,
                      "Status":  "Finalizado"
                  },
                  {
@@ -17542,14 +17558,6 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  20,
                      "QQS NETOS":  27.940000,
-                     "Status":  "Finalizado"
-                 },
-                 {
-                     "Fecha":  "\/Date(1761285600000)\/",
-                     "CLIENTE O AGENCIA":  "Agencia",
-                     "Ubicacion":  "Patio Ofi",
-                     "SACOS":  39,
-                     "QQS NETOS":  54.180000,
                      "Status":  "Finalizado"
                  },
                  {
