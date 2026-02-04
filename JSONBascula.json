@@ -22,7 +22,7 @@
                      "Ubicacion":  "Patio Ofi",
                      "SACOS":  12,
                      "QQS NETOS":  17.490000,
-                     "Status":  "Proceso"
+                     "Status":  "Vacio"
                  },
                  {
                      "Fecha":  "\/Date(1770184800000)\/",
@@ -35,10 +35,10 @@
                  {
                      "Fecha":  "\/Date(1770184800000)\/",
                      "CLIENTE O AGENCIA":  "Recepcion ofi",
-                     "Ubicacion":  null,
+                     "Ubicacion":  "Patio Ofi",
                      "SACOS":  153,
-                     "QQS NETOS":  null,
-                     "Status":  "Parqueo"
+                     "QQS NETOS":  183.660000,
+                     "Status":  "Proceso"
                  },
                  {
                      "Fecha":  "\/Date(1770184800000)\/",
