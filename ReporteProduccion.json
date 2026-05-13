@@ -17939,6 +17939,32 @@
                      "SacosSometidos":  null,
                      "Observacion":  null,
                      "UsuarioProc":  null
+                 },
+                 {
+                     "Ticket":  "G-27658",
+                     "TipoProceso":  "Obtenido de reproceso",
+                     "Propiedad":  "Ofi",
+                     "FechaEntrada":  "\/Date(1778652000000)\/",
+                     "Material":  "Oro SHG",
+                     "QualityGrade":  "ORO SHG",
+                     "Taza":  "Limpia",
+                     "Certificacion":  "Convencional",
+                     "KilosNetos":  1674.63,
+                     "Sacos":  2,
+                     "TipoEmpaque":  "Big bag",
+                     "Vendor":  "OFI",
+                     "Bodega":  "MATAGALPA-Mill",
+                     "Ubicacion":  "C009",
+                     "Referencia":  "RP 086 ",
+                     "Usuario":  "Angie Ordoñez",
+                     "Estado":  "ACTIVO",
+                     "ICO":  "017-437-0644",
+                     "FechaProd":  null,
+                     "TipoProc":  null,
+                     "KilosSometidos":  null,
+                     "SacosSometidos":  null,
+                     "Observacion":  null,
+                     "UsuarioProc":  null
                  }
              ]
 }
