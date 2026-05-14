@@ -459,14 +459,14 @@
                      "Ubicacion":  "C002",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778479200000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  4110.50,
+                     "SacosSometidos":  5.00,
+                     "Observacion":  "",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-C17883",
