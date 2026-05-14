@@ -18355,6 +18355,32 @@
                      "SacosSometidos":  null,
                      "Observacion":  null,
                      "UsuarioProc":  null
+                 },
+                 {
+                     "Ticket":  "prueba",
+                     "TipoProceso":  "prueba",
+                     "Propiedad":  "",
+                     "FechaEntrada":  "\/Date(1778738400000)\/",
+                     "Material":  "prueba",
+                     "QualityGrade":  "",
+                     "Taza":  "",
+                     "Certificacion":  "",
+                     "KilosNetos":  9.00,
+                     "Sacos":  3.00,
+                     "TipoEmpaque":  "",
+                     "Vendor":  "prueba",
+                     "Bodega":  "prueba",
+                     "Ubicacion":  "prueba",
+                     "Referencia":  "",
+                     "Usuario":  "Flopez",
+                     "Estado":  "ACTIVO",
+                     "ICO":  "",
+                     "FechaProd":  null,
+                     "TipoProc":  null,
+                     "KilosSometidos":  null,
+                     "SacosSometidos":  null,
+                     "Observacion":  null,
+                     "UsuarioProc":  null
                  }
              ]
 }
