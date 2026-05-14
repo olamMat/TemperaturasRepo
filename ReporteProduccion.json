@@ -18355,32 +18355,6 @@
                      "SacosSometidos":  null,
                      "Observacion":  null,
                      "UsuarioProc":  null
-                 },
-                 {
-                     "Ticket":  "prueba",
-                     "TipoProceso":  "Compra Directa",
-                     "Propiedad":  "Tolling",
-                     "FechaEntrada":  "\/Date(1778738400000)\/",
-                     "Material":  "Desmanche A UA",
-                     "QualityGrade":  "PERGAMINO SECO SBUX",
-                     "Taza":  "Banyer",
-                     "Certificacion":  "ILLY/RFA",
-                     "KilosNetos":  9.00,
-                     "Sacos":  3.00,
-                     "TipoEmpaque":  "Big bag",
-                     "Vendor":  "OFI",
-                     "Bodega":  "MATAGALPA-Mill",
-                     "Ubicacion":  "C009",
-                     "Referencia":  "prueba",
-                     "Usuario":  "Flopez",
-                     "Estado":  "ACTIVO",
-                     "ICO":  "prueba",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
                  }
              ]
 }
