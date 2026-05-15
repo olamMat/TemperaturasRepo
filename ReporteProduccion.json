@@ -17853,14 +17853,14 @@
                      "Ubicacion":  "D004",
                      "Referencia":  ".",
                      "Usuario":  "Flopez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  ".",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1777615200000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  11530.20,
+                     "SacosSometidos":  167.00,
+                     "Observacion":  "RP 087",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "G-27571",
@@ -18139,14 +18139,14 @@
                      "Ubicacion":  "D004",
                      "Referencia":  ".",
                      "Usuario":  "Flopez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  ".",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1777874400000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  22973.41,
+                     "SacosSometidos":  333.00,
+                     "Observacion":  "RP 087",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "G-27586",
