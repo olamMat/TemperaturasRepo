@@ -69,14 +69,14 @@
                      "Ubicacion":  "C001",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778738400000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  5464.91,
+                     "SacosSometidos":  7.00,
+                     "Observacion":  "Trilla 0695",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "23/24-G-15916",
