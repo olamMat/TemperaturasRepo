@@ -8805,14 +8805,14 @@
                      "Ubicacion":  "C004",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1777960800000)\/",
+                     "TipoProc":  "Devolucion",
+                     "KilosSometidos":  275.56,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "se consolido",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-26929",
@@ -8857,14 +8857,14 @@
                      "Ubicacion":  "C004",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778047200000)\/",
+                     "TipoProc":  "Devolucion",
+                     "KilosSometidos":  2169.87,
+                     "SacosSometidos":  2.00,
+                     "Observacion":  "se consolido",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-26932",
