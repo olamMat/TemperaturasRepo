@@ -15799,14 +15799,14 @@
                      "Ubicacion":  "A001",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1777874400000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  19000.00,
+                     "SacosSometidos":  19.00,
+                     "Observacion":  "Despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27474",
@@ -18087,14 +18087,14 @@
                      "Ubicacion":  "C008",
                      "Referencia":  "RP 086",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "017-437-0640 ",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778479200000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  9583.47,
+                     "SacosSometidos":  10.00,
+                     "Observacion":  "Despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "G-27578",
