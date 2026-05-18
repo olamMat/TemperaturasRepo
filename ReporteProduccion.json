@@ -10287,14 +10287,14 @@
                      "Ubicacion":  "C003",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778479200000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  18975.00,
+                     "SacosSometidos":  275.00,
+                     "Observacion":  "Despachado a Puerto Corinto \nlote 0553",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27056",
@@ -17541,14 +17541,14 @@
                      "Ubicacion":  "D005",
                      "Referencia":  "RP 083 ",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1779084000000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  18975.00,
+                     "SacosSometidos":  13.00,
+                     "Observacion":  "MZ 0091",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "G-27467",
