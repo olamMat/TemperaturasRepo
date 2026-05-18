@@ -1655,14 +1655,14 @@
                      "Ubicacion":  "C004",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778047200000)\/",
+                     "TipoProc":  "Devolucion",
+                     "KilosSometidos":  648.99,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "se consolido en la tk 27601",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-24040",
