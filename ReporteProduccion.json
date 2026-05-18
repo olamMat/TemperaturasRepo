@@ -10469,14 +10469,14 @@
                      "Ubicacion":  "C005",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778220000000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  18975.00,
+                     "SacosSometidos":  275.00,
+                     "Observacion":  "Despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27063",
@@ -10495,14 +10495,14 @@
                      "Ubicacion":  "C005",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778220000000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  18975.00,
+                     "SacosSometidos":  275.00,
+                     "Observacion":  "Despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27064",
