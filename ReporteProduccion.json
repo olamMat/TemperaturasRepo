@@ -1577,14 +1577,14 @@
                      "Ubicacion":  "B001",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "017-437-0681",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1779084000000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  141.59,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "rmin desmanche C cafe entregado a produccion",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-24035",
@@ -8389,14 +8389,14 @@
                      "Ubicacion":  "B001",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1779084000000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  1805.29,
+                     "SacosSometidos":  2.00,
+                     "Observacion":  "rmin desmanche C cafe entregado a produccion",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-26856",
