@@ -17723,14 +17723,14 @@
                      "Ubicacion":  "C010",
                      "Referencia":  "MZ 091",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "017-437-0584",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778479200000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  20000.00,
+                     "SacosSometidos":  20.00,
+                     "Observacion":  "Despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "G-27559",
@@ -17749,14 +17749,14 @@
                      "Ubicacion":  "C010",
                      "Referencia":  "MZ 091",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "017-437-0585",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778479200000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  20000.00,
+                     "SacosSometidos":  20.00,
+                     "Observacion":  "despachado a Puerto Corinto",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "G-27560",
