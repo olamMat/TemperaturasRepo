@@ -19569,14 +19569,14 @@
                      "Ubicacion":  "B001",
                      "Referencia":  "RP 0689",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1778824800000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  128.77,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "rmin desmanche C esta tk originalmente esta por 327.52",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "G-27693",
@@ -19967,6 +19967,32 @@
                      "SacosSometidos":  null,
                      "Observacion":  null,
                      "UsuarioProc":  null
+                 },
+                 {
+                     "Ticket":  "G-27724",
+                     "TipoProceso":  "Obtenido de reproceso",
+                     "Propiedad":  "Ofi",
+                     "FechaEntrada":  "\/Date(1779256800000)\/",
+                     "Material":  "Desmanche C",
+                     "QualityGrade":  "DESMANCHE C",
+                     "Taza":  "Limpia",
+                     "Certificacion":  "RFA",
+                     "KilosNetos":  1290.70,
+                     "Sacos":  1.00,
+                     "TipoEmpaque":  "Big bag",
+                     "Vendor":  "OFI",
+                     "Bodega":  "MATAGALPA-Mill",
+                     "Ubicacion":  "B001",
+                     "Referencia":  "RP 089",
+                     "Usuario":  "Angie Ordoñez",
+                     "Estado":  "Total",
+                     "ICO":  null,
+                     "FechaProd":  "\/Date(1778824800000)\/",
+                     "TipoProc":  "Ingreso a Reproceso",
+                     "KilosSometidos":  1290.70,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "rmin desmanche c",
+                     "UsuarioProc":  "Steven Altamirano"
                  }
              ]
 }
