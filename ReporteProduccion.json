@@ -16267,14 +16267,14 @@
                      "Ubicacion":  "D003",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "017-437-0570",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1779516000000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  19000.00,
+                     "SacosSometidos":  19.00,
+                     "Observacion":  "despachado a Puerto Corinto \nlote 0573",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27492",
