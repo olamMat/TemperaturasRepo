@@ -15383,14 +15383,14 @@
                      "Ubicacion":  "B001",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1780380000000)\/",
+                     "TipoProc":  "Ingreso a Mezcla",
+                     "KilosSometidos":  4449.39,
+                     "SacosSometidos":  4.00,
+                     "Observacion":  "MZ 113",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-G-27449",
@@ -20973,14 +20973,14 @@
                      "Ubicacion":  "A001",
                      "Referencia":  "RP 097",
                      "Usuario":  "Angie Ordoñez",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1780380000000)\/",
+                     "TipoProc":  "Ingreso a Mezcla",
+                     "KilosSometidos":  1786.53,
+                     "SacosSometidos":  2.00,
+                     "Observacion":  "MZ 113",
+                     "UsuarioProc":  "Steven Altamirano"
                  }
              ]
 }
