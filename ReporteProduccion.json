@@ -1057,14 +1057,14 @@
                      "Ubicacion":  "C002",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1780293600000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  16.37,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "trilla 0698",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-C20675",
@@ -1473,14 +1473,14 @@
                      "Ubicacion":  "C002",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1780293600000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  4633.08,
+                     "SacosSometidos":  6.00,
+                     "Observacion":  "trilla 0698",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "25/26-C20713",
