@@ -121,14 +121,14 @@
                      "Ubicacion":  "D005",
                      "Referencia":  "",
                      "Usuario":  "Admin",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  "",
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1779775200000)\/",
+                     "TipoProc":  "Devolucion",
+                     "KilosSometidos":  25935.20,
+                     "SacosSometidos":  18.00,
+                     "Observacion":  "venta local julio lagos",
+                     "UsuarioProc":  "Steven Altamirano"
                  },
                  {
                      "Ticket":  "23/24-G-17682",
