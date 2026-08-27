@@ -1,0 +1,12 @@
+# Credenciales / secretos
+*.secure
+git-credentials*
+.git-credentials
+Scriptsgit-credentials*
+credentials*
+*credential*
+.htpasswd
+
+# Archivos temporales
+*.tmp
+*.log
