@@ -12,6 +12,138 @@
                 ],
     "rows":  [
                  {
+                     "Time_Stamp":  "\/Date(1787872758000)\/",
+                     "Vertical 1":  "42.81",
+                     "Vertical 2":  "27.00",
+                     "Vertical 3":  "24.34",
+                     "Vertical 4":  "23.93",
+                     "Vertical 5":  "26.01",
+                     "Vertical 6":  "24.77",
+                     "Vertical 7":  "24.83",
+                     "Vertical 8":  "25.35"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787872158000)\/",
+                     "Vertical 1":  "42.68",
+                     "Vertical 2":  "26.85",
+                     "Vertical 3":  "24.18",
+                     "Vertical 4":  "23.86",
+                     "Vertical 5":  "25.95",
+                     "Vertical 6":  "24.73",
+                     "Vertical 7":  "24.83",
+                     "Vertical 8":  "25.35"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787871558000)\/",
+                     "Vertical 1":  "42.65",
+                     "Vertical 2":  "26.89",
+                     "Vertical 3":  "24.35",
+                     "Vertical 4":  "23.82",
+                     "Vertical 5":  "25.90",
+                     "Vertical 6":  "24.73",
+                     "Vertical 7":  "24.80",
+                     "Vertical 8":  "25.33"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787870957000)\/",
+                     "Vertical 1":  "42.67",
+                     "Vertical 2":  "26.85",
+                     "Vertical 3":  "24.43",
+                     "Vertical 4":  "23.86",
+                     "Vertical 5":  "25.92",
+                     "Vertical 6":  "24.73",
+                     "Vertical 7":  "24.85",
+                     "Vertical 8":  "25.33"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787870357000)\/",
+                     "Vertical 1":  "42.64",
+                     "Vertical 2":  "26.95",
+                     "Vertical 3":  "24.37",
+                     "Vertical 4":  "23.84",
+                     "Vertical 5":  "25.93",
+                     "Vertical 6":  "24.77",
+                     "Vertical 7":  "24.85",
+                     "Vertical 8":  "25.33"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787869757000)\/",
+                     "Vertical 1":  "42.67",
+                     "Vertical 2":  "26.91",
+                     "Vertical 3":  "24.40",
+                     "Vertical 4":  "24.00",
+                     "Vertical 5":  "25.95",
+                     "Vertical 6":  "24.84",
+                     "Vertical 7":  "24.89",
+                     "Vertical 8":  "25.37"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787869157000)\/",
+                     "Vertical 1":  "42.83",
+                     "Vertical 2":  "26.91",
+                     "Vertical 3":  "24.63",
+                     "Vertical 4":  "24.27",
+                     "Vertical 5":  "26.09",
+                     "Vertical 6":  "24.94",
+                     "Vertical 7":  "25.00",
+                     "Vertical 8":  "25.35"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787868557000)\/",
+                     "Vertical 1":  "42.88",
+                     "Vertical 2":  "27.02",
+                     "Vertical 3":  "24.73",
+                     "Vertical 4":  "24.23",
+                     "Vertical 5":  "26.06",
+                     "Vertical 6":  "24.91",
+                     "Vertical 7":  "25.04",
+                     "Vertical 8":  "25.43"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787867957000)\/",
+                     "Vertical 1":  "42.74",
+                     "Vertical 2":  "27.00",
+                     "Vertical 3":  "24.52",
+                     "Vertical 4":  "23.92",
+                     "Vertical 5":  "26.02",
+                     "Vertical 6":  "24.87",
+                     "Vertical 7":  "25.02",
+                     "Vertical 8":  "25.43"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787867357000)\/",
+                     "Vertical 1":  "42.65",
+                     "Vertical 2":  "26.88",
+                     "Vertical 3":  "24.35",
+                     "Vertical 4":  "23.86",
+                     "Vertical 5":  "25.98",
+                     "Vertical 6":  "24.85",
+                     "Vertical 7":  "25.11",
+                     "Vertical 8":  "25.46"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787866757000)\/",
+                     "Vertical 1":  "42.57",
+                     "Vertical 2":  "26.80",
+                     "Vertical 3":  "24.45",
+                     "Vertical 4":  "23.88",
+                     "Vertical 5":  "25.83",
+                     "Vertical 6":  "24.83",
+                     "Vertical 7":  "25.00",
+                     "Vertical 8":  "25.43"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1787866157000)\/",
+                     "Vertical 1":  "42.57",
+                     "Vertical 2":  "26.82",
+                     "Vertical 3":  "24.58",
+                     "Vertical 4":  "23.86",
+                     "Vertical 5":  "25.93",
+                     "Vertical 6":  "24.96",
+                     "Vertical 7":  "25.07",
+                     "Vertical 8":  "25.50"
+                 },
+                 {
                      "Time_Stamp":  "\/Date(1787865557000)\/",
                      "Vertical 1":  "42.57",
                      "Vertical 2":  "26.80",
