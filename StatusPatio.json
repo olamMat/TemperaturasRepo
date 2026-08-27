@@ -1,0 +1,52 @@
+﻿{
+    "columns":  [
+                    "Proceso",
+                    "PatioRec",
+                    "CantSacos",
+                    "Kilos",
+                    "QQs",
+                    "Lotes"
+                ],
+    "rows":  [
+                 {
+                     "Proceso":  "Envio",
+                     "PatioRec":  "Patio Ofi",
+                     "CantSacos":  1162,
+                     "Kilos":  70798.14,
+                     "QQs":  1539.090000,
+                     "Lotes":  43
+                 },
+                 {
+                     "Proceso":  "Envio",
+                     "PatioRec":  "Patio Waswali",
+                     "CantSacos":  12863,
+                     "Kilos":  909409.26,
+                     "QQs":  19769.770000,
+                     "Lotes":  101
+                 },
+                 {
+                     "Proceso":  "Almacén",
+                     "PatioRec":  "Patio Cerro",
+                     "CantSacos":  6461,
+                     "Kilos":  432169.37,
+                     "QQs":  9394.990000,
+                     "Lotes":  342
+                 },
+                 {
+                     "Proceso":  "Almacén",
+                     "PatioRec":  "Patio Ofi",
+                     "CantSacos":  128273,
+                     "Kilos":  8371318.82,
+                     "QQs":  181985.190000,
+                     "Lotes":  5514
+                 },
+                 {
+                     "Proceso":  "Almacén",
+                     "PatioRec":  "Patio Waswali",
+                     "CantSacos":  122847,
+                     "Kilos":  8709540.35,
+                     "QQs":  189337.830000,
+                     "Lotes":  977
+                 }
+             ]
+}

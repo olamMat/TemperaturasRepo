@@ -1,0 +1,52 @@
+﻿{
+    "columns":  [
+                    "GrupoProcedencia",
+                    "Status",
+                    "Camiones",
+                    "Kilos",
+                    "QQs",
+                    "Sacos"
+                ],
+    "rows":  [
+                 {
+                     "GrupoProcedencia":  "Arabigo",
+                     "Status":  "Proceso",
+                     "Camiones":  1,
+                     "Kilos":  13470.60,
+                     "QQs":  292.840000,
+                     "Sacos":  196
+                 },
+                 {
+                     "GrupoProcedencia":  "Arabigo",
+                     "Status":  "Vacio",
+                     "Camiones":  117,
+                     "Kilos":  1142388.52,
+                     "QQs":  24834.530000,
+                     "Sacos":  17309
+                 },
+                 {
+                     "GrupoProcedencia":  "Arabigo",
+                     "Status":  "Finalizado",
+                     "Camiones":  1885,
+                     "Kilos":  19933818.51,
+                     "QQs":  433343.880000,
+                     "Sacos":  288902
+                 },
+                 {
+                     "GrupoProcedencia":  "Robusta",
+                     "Status":  "Vacio",
+                     "Camiones":  10,
+                     "Kilos":  255540.64,
+                     "QQs":  5555.230000,
+                     "Sacos":  3711
+                 },
+                 {
+                     "GrupoProcedencia":  "Robusta",
+                     "Status":  "Finalizado",
+                     "Camiones":  369,
+                     "Kilos":  9508315.23,
+                     "QQs":  206702.510000,
+                     "Sacos":  130522
+                 }
+             ]
+}
