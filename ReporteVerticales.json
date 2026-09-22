@@ -12,6 +12,28 @@
                 ],
     "rows":  [
                  {
+                     "Time_Stamp":  "\/Date(1790096731000)\/",
+                     "Vertical 1":  "27.39",
+                     "Vertical 2":  "28.90",
+                     "Vertical 3":  "26.18",
+                     "Vertical 4":  "26.06",
+                     "Vertical 5":  "28.13",
+                     "Vertical 6":  "26.70",
+                     "Vertical 7":  "26.76",
+                     "Vertical 8":  "27.28"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1790096131000)\/",
+                     "Vertical 1":  "27.42",
+                     "Vertical 2":  "28.89",
+                     "Vertical 3":  "26.14",
+                     "Vertical 4":  "26.05",
+                     "Vertical 5":  "28.13",
+                     "Vertical 6":  "26.68",
+                     "Vertical 7":  "26.76",
+                     "Vertical 8":  "27.28"
+                 },
+                 {
                      "Time_Stamp":  "\/Date(1790095531000)\/",
                      "Vertical 1":  "27.37",
                      "Vertical 2":  "28.86",
