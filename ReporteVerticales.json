@@ -12,6 +12,50 @@
                 ],
     "rows":  [
                  {
+                     "Time_Stamp":  "\/Date(1790784968000)\/",
+                     "Vertical 1":  "39.39",
+                     "Vertical 2":  "33.88",
+                     "Vertical 3":  "34.51",
+                     "Vertical 4":  "27.32",
+                     "Vertical 5":  "30.35",
+                     "Vertical 6":  "35.19",
+                     "Vertical 7":  "34.14",
+                     "Vertical 8":  "30.99"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1790784368000)\/",
+                     "Vertical 1":  "30.63",
+                     "Vertical 2":  "28.44",
+                     "Vertical 3":  "25.64",
+                     "Vertical 4":  "26.34",
+                     "Vertical 5":  "29.58",
+                     "Vertical 6":  "34.34",
+                     "Vertical 7":  "33.31",
+                     "Vertical 8":  "39.13"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1790783768000)\/",
+                     "Vertical 1":  "30.31",
+                     "Vertical 2":  "28.15",
+                     "Vertical 3":  "25.39",
+                     "Vertical 4":  "25.29",
+                     "Vertical 5":  "27.42",
+                     "Vertical 6":  "32.51",
+                     "Vertical 7":  "32.01",
+                     "Vertical 8":  "36.15"
+                 },
+                 {
+                     "Time_Stamp":  "\/Date(1790783168000)\/",
+                     "Vertical 1":  "30.05",
+                     "Vertical 2":  "27.85",
+                     "Vertical 3":  "25.09",
+                     "Vertical 4":  "25.00",
+                     "Vertical 5":  "27.08",
+                     "Vertical 6":  "25.64",
+                     "Vertical 7":  "25.63",
+                     "Vertical 8":  "26.26"
+                 },
+                 {
                      "Time_Stamp":  "\/Date(1790782568000)\/",
                      "Vertical 1":  "29.92",
                      "Vertical 2":  "27.68",
