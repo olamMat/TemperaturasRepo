@@ -12,6 +12,17 @@
                 ],
     "rows":  [
                  {
+                     "Time_Stamp":  "\/Date(1793292630000)\/",
+                     "Vertical 1":  "28.69",
+                     "Vertical 2":  "30.82",
+                     "Vertical 3":  "28.03",
+                     "Vertical 4":  "27.61",
+                     "Vertical 5":  "29.64",
+                     "Vertical 6":  "28.52",
+                     "Vertical 7":  "28.43",
+                     "Vertical 8":  "28.69"
+                 },
+                 {
                      "Time_Stamp":  "\/Date(1793292030000)\/",
                      "Vertical 1":  "28.40",
                      "Vertical 2":  "30.52",
