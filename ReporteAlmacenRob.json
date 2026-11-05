@@ -1,0 +1,29 @@
+﻿{
+    "columns":  [
+                    "Ticket",
+                    "Sacos",
+                    "Peso Recibido",
+                    "Fecha Recibido",
+                    "Calidad",
+                    "Certificación",
+                    "Estado Fisico",
+                    "Daño",
+                    "Tipo Compra",
+                    "Analisis",
+                    "GradoCalidad",
+                    "TazaRob",
+                    "Origen",
+                    "FechaAlmacen",
+                    "Sacos Almacenados",
+                    "Peso Almacenado",
+                    "Tara",
+                    "PesoNeto",
+                    "Rendimiento",
+                    "Bodega",
+                    "Ubicacion",
+                    "Empaque"
+                ],
+    "rows":  {
+
+             }
+}
