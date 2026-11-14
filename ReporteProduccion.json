@@ -1551,14 +1551,14 @@
                      "Ubicacion":  "C001",
                      "Referencia":  null,
                      "Usuario":  null,
-                     "Estado":  null,
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1794290400000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  22.08,
+                     "SacosSometidos":  368.00,
+                     "Observacion":  "",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27716",
@@ -2097,14 +2097,14 @@
                      "Ubicacion":  "C001",
                      "Referencia":  null,
                      "Usuario":  null,
-                     "Estado":  null,
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1794290400000)\/",
+                     "TipoProc":  "Despacho",
+                     "KilosSometidos":  3.73,
+                     "SacosSometidos":  2.00,
+                     "Observacion":  "3,726.53",
+                     "UsuarioProc":  "Marianeth"
                  },
                  {
                      "Ticket":  "25/26-G-27836",
