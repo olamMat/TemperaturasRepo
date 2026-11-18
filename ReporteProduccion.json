@@ -12497,14 +12497,14 @@
                      "Ubicacion":  "D008",
                      "Referencia":  "",
                      "Usuario":  "Carlos Steven",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1794549600000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  2994.48,
+                     "SacosSometidos":  4.00,
+                     "Observacion":  "",
+                     "UsuarioProc":  "Gabriela"
                  },
                  {
                      "Ticket":  "C20506",
