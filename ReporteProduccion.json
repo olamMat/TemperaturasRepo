@@ -17671,14 +17671,14 @@
                      "Ubicacion":  "D007",
                      "Referencia":  "",
                      "Usuario":  "Carlos Steven",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1795586400000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  7525.00,
+                     "SacosSometidos":  10.00,
+                     "Observacion":  "Trilla # 04",
+                     "UsuarioProc":  "Eddy Granados"
                  },
                  {
                      "Ticket":  "C21122",
@@ -17723,14 +17723,14 @@
                      "Ubicacion":  "D007",
                      "Referencia":  "",
                      "Usuario":  "Carlos Steven",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1795586400000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  349.80,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "Trilla # 04",
+                     "UsuarioProc":  "Eddy Granados"
                  },
                  {
                      "Ticket":  "C21129",
