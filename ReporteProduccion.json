@@ -14603,14 +14603,14 @@
                      "Ubicacion":  "D008",
                      "Referencia":  null,
                      "Usuario":  "Gabriela",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1795586400000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  4006.60,
+                     "SacosSometidos":  5.00,
+                     "Observacion":  "Trilla # 04",
+                     "UsuarioProc":  "Eddy Granados"
                  },
                  {
                      "Ticket":  "C20475",
