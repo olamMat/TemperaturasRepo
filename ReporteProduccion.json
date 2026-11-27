@@ -537,14 +537,14 @@
                      "Ubicacion":  "G004",
                      "Referencia":  "",
                      "Usuario":  "Carlos Steven",
-                     "Estado":  "ACTIVO",
+                     "Estado":  "Total",
                      "ICO":  null,
-                     "FechaProd":  null,
-                     "TipoProc":  null,
-                     "KilosSometidos":  null,
-                     "SacosSometidos":  null,
-                     "Observacion":  null,
-                     "UsuarioProc":  null
+                     "FechaProd":  "\/Date(1792476000000)\/",
+                     "TipoProc":  "Ingreso a Trillo",
+                     "KilosSometidos":  58.32,
+                     "SacosSometidos":  1.00,
+                     "Observacion":  "",
+                     "UsuarioProc":  "Gabriela"
                  },
                  {
                      "Ticket":  "10405",
